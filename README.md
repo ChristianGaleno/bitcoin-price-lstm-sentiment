@@ -147,8 +147,7 @@ matplotlib>=3.7.0
 ## 👤 Author
 
 **Christian Galeno**  
-Mahasiswa Teknik Informatika — Telkom University  
-[
+Mahasiswa Informatika — Telkom University  
 
 ***
 
